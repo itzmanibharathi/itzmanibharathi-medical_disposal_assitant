@@ -187,15 +187,4 @@ License
 MIT License. See LICENSE file for details.
 text---
 
-### **Procedure to Add README to GitHub**
 
-To add this README to your GitHub repository, follow these steps:
-
-1. **Create the README File**:
-   - In your project root directory, create a file named `README.md`.
-   - Copy the above Markdown content into `README.md` using a text editor (e.g., VS Code, Notepad++).
-
-2. **Commit the File**:
-   - Open your terminal and navigate to the project root:
-     ```bash:disable-run
-     cd /path/to/your-repo
